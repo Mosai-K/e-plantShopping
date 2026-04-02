@@ -1,1 +1,2 @@
-# coding-project-template
+# e-PlantShopping
+A nursery application built in React.
